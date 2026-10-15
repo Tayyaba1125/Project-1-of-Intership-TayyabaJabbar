@@ -1,6 +1,6 @@
 # Project 1: Data Cleaning & Preparation
 
-Cleaned a raw e-commerce orders dataset (1,200 records, 14 columns) using Python (Pandas) in Google Colab.
+I Cleaned a raw e-commerce orders dataset (1,200 records, 14 columns) using Python (Pandas) in Google Colab.
 
 ## Cleaning Steps
 - Filled 309 null `CouponCode` values with "No Coupon" (null means no coupon was used)
